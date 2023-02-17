@@ -11,7 +11,7 @@ require (
 	github.com/Azure/go-autorest/autorest/validation v0.2.0 // indirect
 	github.com/adrg/xdg v0.2.1
 	github.com/armon/circbuf v0.0.0-20190214190532-5111143e8da2
-	github.com/aws/aws-sdk-go v1.36.31
+	github.com/aws/aws-sdk-go v1.44.122
 	github.com/bmatcuk/doublestar v1.1.5
 	github.com/boltdb/bolt v1.3.1
 	github.com/buildpacks/pack v0.11.1
@@ -40,21 +40,21 @@ require (
 	github.com/go-playground/universal-translator v0.17.0 // indirect
 	github.com/go-playground/validator v9.31.0+incompatible
 	github.com/gofrs/flock v0.8.0
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.5.2
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/gorilla/handlers v1.4.2
 	github.com/hashicorp/aws-sdk-go-base v0.7.0
 	github.com/hashicorp/errwrap v1.0.0
 	github.com/hashicorp/go-argmapper v0.0.0-20200721221215-04ae500ede3b
-	github.com/hashicorp/go-cleanhttp v0.5.1
+	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-gcp-common v0.6.0
-	github.com/hashicorp/go-getter v1.4.1
+	github.com/hashicorp/go-getter v1.7.0
 	github.com/hashicorp/go-hclog v0.14.1
 	github.com/hashicorp/go-memdb v1.2.0
 	github.com/hashicorp/go-multierror v1.1.0
 	github.com/hashicorp/go-plugin v1.3.0
 	github.com/hashicorp/go-uuid v1.0.2
-	github.com/hashicorp/go-version v1.2.0
+	github.com/hashicorp/go-version v1.6.0
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/hashicorp/hcl/v2 v2.7.1-0.20201023000745-3de61ecba298
 	github.com/hashicorp/horizon v0.0.0-20201203173320-fcefbe49771c
@@ -96,19 +96,18 @@ require (
 	github.com/sebdah/goldie/v2 v2.5.3
 	github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966
 	github.com/slack-go/slack v0.6.5
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.0
 	github.com/vektra/mockery v1.1.2
 	github.com/zclconf/go-cty v1.5.1
 	github.com/zclconf/go-cty-yaml v1.0.2
 	go.uber.org/goleak v1.1.10
-	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
-	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f
-	golang.org/x/tools v0.0.0-20200410194907-79a7a3126eef // indirect
-	google.golang.org/api v0.20.0
-	google.golang.org/genproto v0.0.0-20201002142447-3860012362da
-	google.golang.org/grpc v1.32.0
-	google.golang.org/protobuf v1.25.0
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/oauth2 v0.1.0
+	golang.org/x/sys v0.1.0
+	google.golang.org/api v0.100.0
+	google.golang.org/genproto v0.0.0-20221025140454-527a21cfbd71
+	google.golang.org/grpc v1.50.1
+	google.golang.org/protobuf v1.28.1
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 	k8s.io/api v0.19.4
